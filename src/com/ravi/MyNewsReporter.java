@@ -271,11 +271,11 @@ public class MyNewsReporter extends ListActivity {
 	}
 
 	private static void setProxySettings() {
-		System.getProperties().put("http.proxyHost", "172.23.76.179");
+		System.getProperties().put("http.proxyHost", "172.13.16.179");
 		System.getProperties().put("http.proxyPort", "80");
 		System.getProperties().put("http.proxyUser",
-				"polaris/ravisankar.pabbati");
-		System.getProperties().put("http.proxyPassword", "Ravip1234");
+				"userid");
+		System.getProperties().put("http.proxyPassword", "pwd");
 	}
 
 	private static String readFile(String sFileName_) throws IOException,
