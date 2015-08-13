@@ -6,3 +6,4 @@ The keywords are configurable using settings option. Upon clicking on the news i
 A very useful personlized that shows only the latest top news, saves precious time.
 
 Version 1 + Login Feature
+Version 2 
